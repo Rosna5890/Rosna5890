@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rosna
 - 👀 I’m interested in Game Design
-- 🌱 I’m currently learning Unity3D
+- 🌱 I’m currently learning Unity3D and Python
 - 📫 Reach me on rosna5890@gmail.com
 
 <!---
